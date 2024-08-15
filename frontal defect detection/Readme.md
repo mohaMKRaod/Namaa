@@ -22,7 +22,7 @@ pandas
 postgresql
 
 
-![Pipeline Overview](images\Pipline.jpeg)
+![Pipeline Overview](images/Pipline.jpeg)
 
 ## Results
 ### Before building the pipeline
